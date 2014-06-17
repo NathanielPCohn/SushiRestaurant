@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SushiRestaurant</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_single_fragment">SingleFragmentActivity</string>
+    <string name="title_activity_sushi_restaurant_item">SushiRestaurantItemActivity</string>
+    <string name="sushi_icon_content_description">Icon for individual sushi restaurant item</string>
+    <string name="title_activity_sushi_restaurant_pager">SushiRestaurantPagerActivity</string>
+    <string name="title_activity_mapping">SushiMappingActivity</string>
+    <string name="empty_content_desc">This is an empty content description.</string>
+    <string name="menu_map">Go To Map</string>
+
+</resources>
